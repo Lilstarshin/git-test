@@ -5,3 +5,8 @@ main {
 }
 
 
+
+
+main2 {
+  1.test, test
+}
